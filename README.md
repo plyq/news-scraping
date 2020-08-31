@@ -15,5 +15,14 @@ mongod
 Run 
 
 ```
-python3 main.py
+python3 entrypoint.py
+```
+
+## Docker
+
+Docker stuff is not working, but it suppose to work with follwing commands:
+
+```
+docker-compose build
+docker-compose run app
 ```
